@@ -3,7 +3,7 @@
 class DataAccessLayer {
 
 	private $host = '127.0.0.1';
-	private $db   = 'fares';
+	private $db   = 'northwind';
 	private $user = 'root';
 	private $pass = '';
 	private $charset = 'utf8';
